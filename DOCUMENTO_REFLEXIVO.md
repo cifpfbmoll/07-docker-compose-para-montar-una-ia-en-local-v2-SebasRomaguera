@@ -15,7 +15,7 @@
 
 ## 💻 Especificaciones del Equipo
 
-- **CPU**: [Completa con tu procesador, ej: Intel Core i5-10400 / AMD Ryzen 5 5600X]
+- **CPU**: intel core i5
 - **RAM**: 8-12 GB
 - **GPU**: 
 - **Sistema Operativo**: Windows
