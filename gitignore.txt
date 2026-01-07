@@ -1,0 +1,34 @@
+# Ignorar archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs y archivos de Docker
+*.log
+docker-compose.override.yml
+
+# Ignorar archivos de configuración locales
+.env
+.env.local
+
+# Ignorar archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignorar archivos de Python si se añaden scripts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Ignorar archivos de Node.js si se añaden herramientas
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
