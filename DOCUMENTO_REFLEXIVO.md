@@ -17,7 +17,7 @@
 
 - **CPU**: [Completa con tu procesador, ej: Intel Core i5-10400 / AMD Ryzen 5 5600X]
 - **RAM**: 8-12 GB
-- **GPU**: [Si tienes GPU dedicada indicar modelo, sino: CPU solamente]
+- **GPU**: 
 - **Sistema Operativo**: Windows
 - **Almacenamiento**: SSD con suficiente espacio para contenedores y modelos
 
